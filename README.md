@@ -1,3 +1,3 @@
 # Yoda-Yodling
-This is the main repo / directory or "root".
--> The other readme should be different
+This directory, Padawan should sync with the root unless I edit it directly
+-> Qui-Gon Jin, Mace Windu, Dooku
